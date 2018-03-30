@@ -1,0 +1,25 @@
+#h1{
+    font-family: "Comic Sans MS";
+    text-align: left;
+    content : "School System";
+    text-decoration-color: navajowhite;
+    font-size: 100pc;
+}
+
+body {
+    font: 18px sans-serif;
+    margin: 30px;
+    background: dimgrey;
+}
+
+input,select,button {
+    font-size: 18px;
+}
+
+#teacherList{
+    margin-top: 50px;
+}
+
+#System{
+    background-color: lightsalmon;
+}
